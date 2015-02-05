@@ -1,0 +1,27 @@
+	body 	{font-family: helvetica;
+		text-align: center;
+		background-color: red;
+		line-height: 16 px;}
+	h1 	{font-family: helvetica;
+		font-size: 24 px;
+		font-variant: small-caps;
+		color: black; 
+		text-align: center;}
+	h2 	{font-family: helvetica;
+		font-size: 18 px;
+		color: black; 
+		text-align: center;}
+	.bold 	{font-family: helvetica;
+		font-weight: bold;
+		font-size: 1.2em;
+		color: black; }
+	.img     {height: 250 px;
+		width: 250 px;
+		box-shadow: rgba(0,0,0,0.2) 10px 10px;}
+	.underline 	{text-decoration: underline;
+		padding : 5px;}
+	#right{
+	width: 45%;
+	float: right;}
+
+	
